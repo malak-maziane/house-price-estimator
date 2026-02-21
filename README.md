@@ -1,4 +1,4 @@
-# 🏠 Ames Housing Price Predictor: Ultimate AI-Powered Real Estate Estimator
+# 🏠 Housing Price Predictor: Ultimate AI-Powered Real Estate Estimator
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python)
 ![Gradio](https://img.shields.io/badge/Gradio-UI-orange.svg?style=for-the-badge)
